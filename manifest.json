@@ -1,7 +1,7 @@
 {
   "name": "TvTorrents.ext",
   "version": "1.0",
-  "description": "Right now, just adds a discrete IMDB link in listing. Useful to look up a which doesn't have its own show page yet.",
+  "description": "Right now, just adds a discrete IMDB link in listing. Useful to look up a show which doesn't have its own show page yet.",
   "content_scripts": [
     {
       "run_at": "document_idle",

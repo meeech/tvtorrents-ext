@@ -1,0 +1,9 @@
+.imdbize {
+    color: #aaa;
+    font-size: .8em;
+    padding-left: 10px;
+}
+
+.imdbize:hover {
+    color: #000;
+}

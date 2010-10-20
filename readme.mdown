@@ -1,0 +1,7 @@
+tvtorrents.ext
+
+Pretty simple.
+
+Right now, just adds an imdb link next to show title.
+
+Handy to look things up sometimes. 
